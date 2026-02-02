@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CLI Todo Application
 
 This is a command-line interface (CLI) based Todo application implemented in Python. It stores tasks in memory and supports basic task management operations.
@@ -88,3 +89,7 @@ The application consists of three main components:
 - Tasks are stored only in memory and will be lost when the application exits
 - No persistent storage mechanism
 - Single-user application
+=======
+# Hackathon_02_Todoapp_Phase01-
+ This is a console-based Todo application developed using Claude Code and SpeckitPlus. It allows users to create, view, update, and manage tasks directly from the terminal, focusing on simplicity, clarity, and structured code generation.
+>>>>>>> aadde7da5d61d0321ae18992a11172fa577e6c98
