@@ -1,0 +1,4 @@
+# CLI Todo Application Requirements
+# This application uses only Python standard library modules
+
+# No external dependencies required
